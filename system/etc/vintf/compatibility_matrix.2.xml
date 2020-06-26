@@ -1,0 +1,17 @@
+<!--Bypass VINTF-->
+<compatibility-matrix version="1.0" type="framework" level="2">
+    <kernel version="3.18.0">
+    </kernel>
+    <kernel version="4.4.0">
+    </kernel>
+    <kernel version="4.9.0">
+    </kernel>
+    <kernel version="4.14.0">
+    </kernel>
+    <kernel version="4.19.0">
+    </kernel>
+    <kernel version="5.4.0">
+    </kernel>
+    <kernel version="5.8.0">
+    </kernel>
+</compatibility-matrix>

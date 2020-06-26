@@ -1,0 +1,6 @@
+id=vintf-bypass
+name=VTS Check Bypass
+version=1.0
+versionCode=1
+author=Draco
+description=Disable HAL and Kernel config checks on boot.
