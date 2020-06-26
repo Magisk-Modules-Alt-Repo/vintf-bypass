@@ -20,3 +20,6 @@ This module replaces each Kernel configuration check with an empty one, bypassin
 - 5.4.0+
 - 5.8.0+
 ```
+
+# Who Is This For
+This module is extremely useful for Kernel developers who wish to be creative with their defconfig without succumbing to Google's software mandations. Ideally, custom Kernel users will install this module separately, or bundled with the Kernel flasher, making it entirely universal to bypass. As a result, custom Kernels will no longer require hacky solutions to spoof the output of `/proc/config.gz` (in fact, CONFIG_IKCONFIG can be entirely disabled with this module installed).
