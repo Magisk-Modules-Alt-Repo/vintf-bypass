@@ -1,4 +1,4 @@
-id=vintf_bypass
+id=vintf-bypass
 name=VTS Check Bypass
 version=v1.1
 versionCode=2
